@@ -2,7 +2,7 @@
 
 ## The Challenge
 To refactor an existing webpage in order to make it accessible, so it is optimized for search engines.
-![](./assets/images/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png)
+![Alt text](https://umn.bootcampcontent.com/-/ide/project/University-of-Minnesota-Boot-Camp/UofM-VIRT-FSF-PT-10-2022-U-LOLC/tree/main/-/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png/)
 
 
 
