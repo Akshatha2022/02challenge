@@ -2,6 +2,8 @@
 
 ## The Challenge
 To refactor an existing webpage in order to make it accessible, so it is optimized for search engines.
+![](./assets/images/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png)
+
 
 
 ## User Story
@@ -55,9 +57,20 @@ The benefits <div> tag was changed to <aside> tag
 
 Included alt properties with related description for each image
 
-Contributions:
+
+Installation:
+
+The project was uploaded to GitHub at the following repository: https://github.com/Akshatha2022/02challenge
+
+You can access the deployed application with the GitHup Pages link: https://akshatha2022.github.io/02challenge/
+
+
+References/ Contribution:
 
 https://www.w3schools.com/html/html5_semantic_elements.asp - SEMANTIC ELEMENTS
+
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide - README
+
 https://code.visualstudio.com/docs/languages/markdown#_markdown-preview - VS CODE
+
 YOUTUBE VIDEOS
